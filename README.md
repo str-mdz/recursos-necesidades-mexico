@@ -1,6 +1,6 @@
 # Recursos y Necesidades de México
 
-[![Acceder al sitio](https://img.shields.io/badge/🚀_Ver_Sitio_Web-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://recursos-necesidades-mexico-f33urtgbs-str-mdz.vercel.app)
+[![Acceder al sitio](https://img.shields.io/badge/_Ver_Sitio_Web-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://recursos-necesidades-mexico-f33urtgbs-str-mdz.vercel.app)
 ## Proyecto académico
 
 **Aprovechamiento del unicel mediante acetona para posibles aplicaciones no estructurales en el mejoramiento de viviendas en México.**
